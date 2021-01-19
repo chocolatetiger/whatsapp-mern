@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+./whatsapp-backend/node_modules
+./whatsapp-frontend/node_modules
 # testing
 /coverage
 
